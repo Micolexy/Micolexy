@@ -6,6 +6,13 @@ I’m a passionate Frontend Developer, focused on building high-performance, vis
 
 ---
 
+## 📫 Connect With Me
+
+* 📧 Email: [popoolamichael3959@gmail.com](mailto:popoolamichael3959@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/michael-popoola-19a7ba2a5?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
+---
+
 ## 🌐 Portfolio
 
 🔗 [View My Portfolio](https://micolexycodes.vercel.app/)
@@ -40,12 +47,7 @@ I’m a passionate Frontend Developer, focused on building high-performance, vis
 
 ---
 
-## 📫 Connect With Me
 
-* 📧 Email: [popoolamichael3959@gmail.com](mailto:popoolamichael3959@gmail.com)
-* 💼 LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/michael-popoola-19a7ba2a5?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-
----
 
 
 
